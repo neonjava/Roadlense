@@ -1,0 +1,16 @@
+{
+  "appId": "com.roadfix.app",
+  "appName": "RoadFix",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "Camera": {
+      "saveToGallery": false
+    },
+    "Geolocation": {
+      "permissions": ["location"]
+    }
+  }
+}
