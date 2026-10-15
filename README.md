@@ -15,6 +15,7 @@ Road damage reporting app with map locations, severity analysis, and citizen and
 
 These images use generated road damage and sample report data. The analysis values are illustrative; live AI analysis requires a configured provider.
 
+- [RoadFix showcase image](docs/demo/roadfix-showcase.png)
 - [Admin dashboard](docs/demo/dashboard.png)
 - [Photo upload](docs/demo/upload-preview.png)
 - [Report with sample analysis](docs/demo/analysis-demo.png)
