@@ -15,9 +15,12 @@ Road damage reporting app with map locations, severity analysis, and citizen and
 
 These images use generated road damage and sample report data. The analysis values are illustrative; live AI analysis requires a configured provider.
 
+- [RoadFix showcase with marked pothole](docs/demo/roadfix-showcase-detected.png)
+- [Marked pothole example](docs/demo/pothole-detected.png)
 - [RoadFix showcase image](docs/demo/roadfix-showcase.png)
 - [Admin dashboard](docs/demo/dashboard.png)
 - [Photo upload](docs/demo/upload-preview.png)
+- [Report with marked pothole and sample analysis](docs/demo/analysis-detected.png)
 - [Report with sample analysis](docs/demo/analysis-demo.png)
 - [Sample pothole photo](docs/demo/pothole-sample.png)
 
